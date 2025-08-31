@@ -1,0 +1,25 @@
+Abdul Basit is a highly qualified professional with a unique and powerful combination of expertise in Supply Chain Management and Artificial Intelligence & Data Science.
+
+Professional Summary
+Current Role: Head of Procurement at Karachi Nuclear Power Plant (Nov 2017 - Present), with prior experience as In-Charge Procurement at the same organization. He has a proven track record in strategic sourcing, supplier relationship management, and ensuring strict regulatory compliance in a high-stakes nuclear environment.
+
+Core Strengths: He excels at optimizing procurement operations, managing high-value contracts, mitigating supply chain risks, and leading cross-functional teams to support operational goals.
+
+Technical AI Proficiency: A Microsoft-certified expert in AI and the Power Platform. He possesses deep practical skills in machine learning, data analytics, natural language processing (NLP), computer vision, and building end-to-end AI solutions, including model deployment and workflow automation.
+
+Key Competencies
+Supply Chain: Strategic Sourcing, Contract Negotiation, Supplier & Inventory Management, Risk & Compliance, Lean Six Sigma (Green Belt Certified).
+
+Artificial Intelligence: Machine Learning, Deep Learning, Computer Vision, NLP, Predictive Analytics, Power BI, Power Apps, Power Automate, and cloud platforms (Azure, AWS, GCP).
+
+Education & Certifications
+Education: Holds a Bachelor's degree in Chemical Engineering from NED University (2012).
+
+Supply Chain Certifications: Certified Lean Six Sigma Green Belt and multiple professional diplomas and courses from MIT and other institutions.
+
+AI & Data Science Certifications: Holds numerous prestigious certifications from Microsoft (Azure Data Scientist, Power Platform), Udacity, DeepLearning.ai, Stanford University, and others, demonstrating a strong commitment to continuous learning in the tech field.
+
+Notable Projects
+He has successfully applied his data science skills to various practical projects, including building analytical dashboards (e.g., Employee Performance, Electric Vehicles), developing an AI-powered document redaction tool, creating a person counter application, and operationalizing machine learning models on Azure.
+
+In summary, Abdul Basit is a dual-threat professional who leverages advanced data-driven insights and AI automation to solve complex problems and drive efficiency in supply chain and procurement operations.
